@@ -1,5 +1,3 @@
-123
-
 Port to jest poezja rumu i koniaku
 Port to jest poezja westchnien czulych zon
 
